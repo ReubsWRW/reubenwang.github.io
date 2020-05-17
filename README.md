@@ -44,4 +44,4 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 
 # Other Projects and Interests
 
-* [Praxis+, "Phosphene", Singapore Night Festival 2017](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene) 
+* [Praxis+, "**Phosphene**", Singapore Night Festival 2017](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene) 
