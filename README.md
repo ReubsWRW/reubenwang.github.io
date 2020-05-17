@@ -4,6 +4,8 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 ## Biography (the short version)
 
+![Its me!](https://github.com/reubenwangrongwen/reubenwangrongwen.github.io/blob/master/Images/casual_portrait.jpg)
+
 I was born and raised in the tropical island of Singapore. Always having had a keen curiosity of the world led me to deeply appreciate music, art and the natural sciences. The last of which eventually pushed me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. This brings me to where I am now, pursing a PhD in theoretical physics at the [University of Colordao, Boulder](https://www.colorado.edu/). 
 
 ## Research Interests
