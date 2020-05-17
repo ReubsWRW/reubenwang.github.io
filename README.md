@@ -9,7 +9,8 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 I was born and raised in the tropical island of Singapore. Always having had a keen curiosity of the world led me to deeply appreciate music, art and the natural sciences. The last of which eventually pushed me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). 
 
-# Research Interests
+
+# Physics Research
 
 I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying many-body physics and thermodynamics of ultracold gases (i.e. I like to study the behavior of systems with many things when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy! 
 
