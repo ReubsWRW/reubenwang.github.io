@@ -1,6 +1,6 @@
 # WELCOME! 
 
-You have found yourself in the personal website of Reuben Wang. Nice to meet you, fellow internet dweller!
+Nice to meet you, fellow internet dweller! You have found yourself in the personal website of Reuben Wang. 
 
 # BIOGRAPHY (the short version)
 
