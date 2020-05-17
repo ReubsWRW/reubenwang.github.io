@@ -22,6 +22,11 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 Throughout my arduous academic escapades, I have managed to transcribe notes from several of these classes to LaTex. Below is an assortment of the few I have managed. 
 
+## Notes from Cu Boulder
+
+## Notes from MIT
+
+## Notes from SUTD
 
 
 # Other Projects and Interests
