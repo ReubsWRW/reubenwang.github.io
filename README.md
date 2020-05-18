@@ -7,7 +7,7 @@ Nice to meet you, fellow internet dweller! You have found yourself in the person
 <img align="left" src="Images/casual_portrait.jpg" width="200"> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-I was born and raised in the tropical island of Singapore. Always having had a keen curiosity of the world led me to deeply appreciate music, art and the natural sciences. The last of which eventually pushed me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). 
+I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). Always having had a keen curiosity of the world led me to deeply appreciate music, art and the natural sciences. The last of which eventually pushed me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). 
 
 
 # PHYSICS RESEARCH
@@ -44,4 +44,5 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 
 # OTHER PROJECTS 
 
-* [Praxis+, "**Phosphene**", Singapore Night Festival 2017](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene) 
+* [Praxis+, "**Phosphene**", Singapore Night Festival 2017](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
+* ["**The Quantum World**" Workshop](./TQW.md)
