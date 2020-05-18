@@ -31,6 +31,6 @@ Below are the slides I used for each session of the workshop. These slides were 
 
 Some candid photos from the workshop.
 
-<img align="left" src="candid_capture1.JPG" width="200">
-<img align="left" src="candid_capture2.JPG" width="200">
-<img align="left" src="candid_capture3.JPG" width="200">
+<img align="left" src="candid_capture1.JPG" width="400">
+<img align="left" src="candid_capture2.JPG" width="400">
+<img align="left" src="candid_capture3.JPG" width="400">
