@@ -1,6 +1,6 @@
 # WELCOME! 
 
-Nice to meet you, fellow internet dweller! You have found yourself in the personal website of Reuben Wang. 
+You have found yourself in the personal website of Reuben Wang. Nice to meet you, fellow internet dweller!
 
 # BIOGRAPHY (the short version)
 
@@ -15,6 +15,8 @@ I was born and raised in the tropical island of [Singapore](https://www.visitsin
 I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying many-body physics and thermodynamics of ultracold gases (i.e. I like to study the behavior of systems with many things when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy! 
 
 ## Publications
+
+My *Google scholar* can be found [here](https://scholar.google.com/citations?user=wX9sdjwAAAAJ&hl=en)!
 
 * [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period Doubling in Period-One Steady States"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202)
 
