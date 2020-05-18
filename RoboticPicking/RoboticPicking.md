@@ -8,10 +8,11 @@ a vision system consisting of digital and depth cameras, and an AI program that 
 * ascertain the optimal picking confguration and trajectory to move the object into a pre-defined bin.
 
 
+## The Team
+
 <img align="left" src="team_photo.jpg">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-The team consisted of 6 members (from left to right): [Keshigeyan Chandrasegaran](https://sg.linkedin.com/in/keshigeyan-chandrasegaran) , 
-[Judith Lim](https://www.linkedin.com/in/judith-lim) , [Aravind Kandiah](https://www.linkedin.com/in/sk-ara) , myself, [Charles Wong](https://sg.linkedin.com/in/charles-wzx) and [Canneth Ho](https://sg.linkedin.com/in/canneth-ho-1bb754160). 
+The team consisted of 6 members (from left to right): Keshigeyan Chandrasegaran, Judith Lim, Aravind Kandiah, myself, Charles Wong and Canneth Ho. 
 
 
 (https://www.bifrost.ai/)
