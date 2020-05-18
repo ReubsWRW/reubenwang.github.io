@@ -15,7 +15,7 @@ Our team consisted of a mix of engineering and computer science majors (team pic
 
 <img align="left" src="team_photo.jpg">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(The team consisted of 6 members. From left to right: Keshigeyan Chandrasegaran, Judith Lim, Aravind Kandiah, myself, Charles Wong and Canneth Ho.) 
+(From left to right: Keshigeyan Chandrasegaran, Judith Lim, Aravind Kandiah, myself, Charles Wong and Canneth Ho.) 
 
 
 
