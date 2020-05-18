@@ -16,13 +16,21 @@
 
 *Despite this, I am convinced that Quantum mechanics is indeed a beautiful theory of our universe, and I hope this book expresses that to you as much as it does me.*
 
+
 ## Slides
 
-Below are the slides I used for each session of the workshop. These slides were made to aid in-class lectures conducted by myself.
+Below are the slides I used for each session of the workshop. These slides were made to aid the in-class lectures conducted by yours truly.
 
 * [Session 1 slides.](TQW%20Day%201.pdf)
 * [Session 2 slides.](TQW%20Day%202.pdf)
 * [Session 3 slides.](TQW%20Day%203.pdf)
 * [Session 4 slides.](TQW%20Day%204.pdf)
 
+
 ## Candid Captures
+
+Some candid photos from the workshop.
+
+<img align="left" src="candid_capture1.JPG" width="200">
+<img align="left" src="candid_capture2.JPG" width="200">
+<img align="left" src="candid_capture3.JPG" width="200">
