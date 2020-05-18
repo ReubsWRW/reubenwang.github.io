@@ -34,3 +34,5 @@ Some candid photos from the workshop.
 <img align="left" src="candid_capture1.JPG" width="400">
 <img align="left" src="candid_capture2.JPG" width="400">
 <img align="left" src="candid_capture3.JPG" width="400">
+
+<br/><br/><br/>
