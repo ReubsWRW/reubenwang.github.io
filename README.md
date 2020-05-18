@@ -4,7 +4,7 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 # Biography
 
-<br/><br/><br/><br/>
+<br/>
 <img align="left" src="Images/casual_portrait.jpg" width="200"> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
