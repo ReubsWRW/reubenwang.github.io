@@ -12,7 +12,7 @@ pick-and-place tasks. The final system was the integration of a 6-axis robotic a
 A short demo of the system in action is given in the GIF below. In this demo, the system has been tasked to identify and sort through an array of items, which is then to be placed into a designated bin. The robot was given no prior explicit information on what the array of items would consist of, where these items would be placed on the palette, or how it should go about carrying out this task. The robot simply does these procedures autonomously with AI algorithms we have programmed into it.  
 
 <img align="left" src="picking_sequence.gif">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 A unique feature of this system is that the AI was trained on a synthetic data set. That is, all training data was virtually generated and computer rendered, to provide the AI with photorealistic images to learn from. 
 
