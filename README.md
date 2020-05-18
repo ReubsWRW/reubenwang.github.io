@@ -25,7 +25,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 # Other Projects
 
 * [A collection of my **academic notes** taken in *LaTeX* (ongoing).](./AcademicNotes/AcademicNotes.md)
-* [AI Pick-and-Place Robotic System (2019)](./RoboticPicking/RoboticPicking.md)
+* [**AI Pick-and-Place Robotic System**, (2019)](./RoboticPicking/RoboticPicking.md)
 * ["**The Quantum World**" Workshop, IAP (2019)](./TQW/TQW.md)
 * [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
 
