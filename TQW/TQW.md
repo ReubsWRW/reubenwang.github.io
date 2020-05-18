@@ -5,6 +5,7 @@
 <img align="left" src="workshop_poster.jpg" width="300">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 (poster used for workshop publicity)
+<br/>
 
 ## The Handbook
 
