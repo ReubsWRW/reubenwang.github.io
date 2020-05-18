@@ -30,15 +30,15 @@ Below are the slides I used for each session of the workshop. These slides were 
 
 Here are some photos taken while the workshop was being conducted.
 
-<img align="left" src="candid_capture1.JPG">
+<img align="left" src="candid_capture1.JPG" width=600>
 
 <br/><br/>
 
-<img align="left" src="candid_capture2.JPG">
+<img align="left" src="candid_capture2.JPG" width=600>
 
 <br/><br/>
 
-<img align="left" src="candid_capture3.JPG">
+<img align="left" src="candid_capture3.JPG" width=600>
 
 <br/><br/><br/><br/><br/>
 
