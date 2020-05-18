@@ -28,7 +28,7 @@ Below are the slides I used for each session of the workshop. These slides were 
 
 ## Candid Captures
 
-Some candid photos from the workshop.
+Here are some photos taken while the workshop was being conducted.
 
 <img align="left" src="candid_capture1.JPG" width="500">
 <br/><br/>
