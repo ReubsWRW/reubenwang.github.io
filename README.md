@@ -28,5 +28,5 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 
 # Contact
 
-* Email: <mailto:reuben.wang@colorado.edu>
+* Email: <reuben.wang@colorado.edu>
 * Office: JILA X390
