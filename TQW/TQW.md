@@ -1,6 +1,6 @@
 # The Quantum World
 
-Here is a catalog of the notes (a short handbook) and slides I made and used to conduct a workshop on quantum mechanics and quantum computation at SUTD. The workshop was targeted at engineering students with no prior knowledge of quantum theory and designed to be brief but rigorous. The workshop spanned 4, 2 hour long sessions, for which not all material in the notes was covered. 
+*The Quantum World* was a workshop I devised and held, that taught introductory concepts on quantum mechanics and quantum computation in the spring of 2019. The workshop was targeted at engineering students at SUTD with no prior knowledge of quantum theory and was designed to be brief but rigorous. It spanned a total of 4, 2 hour long sessions, for which not all the intended material was covered. This webpage is a catalog of the notes (a short handbook) and slides I made and used to conduct the workshop. 
 
 
 ## The Handbook
@@ -17,5 +17,12 @@ Here is a catalog of the notes (a short handbook) and slides I made and used to 
 *Despite this, I am convinced that Quantum mechanics is indeed a beautiful theory of our universe, and I hope this book expresses that to you as much as it does me.*
 
 ## Slides
+
+Below are the slides I used for each session of the workshop. These slides were made to aid in-class lectures conducted by myself.
+
+* [Session 1 slides.](TQW%20Day%201.pdf)
+* [Session 2 slides.](TQW%20Day%202.pdf)
+* [Session 3 slides.](TQW%20Day%203.pdf)
+* [Session 4 slides.](TQW%20Day%204.pdf)
 
 ## Candid Captures
