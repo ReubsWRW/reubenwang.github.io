@@ -7,7 +7,7 @@ Nice to meet you, fellow internet dweller! You have found yourself in the person
 <img align="left" src="Images/casual_portrait.jpg" width="200"> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). Always having had a keen curiosity of the world led me to deeply appreciate music, art and the natural sciences. The last of which eventually pushed me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). 
+I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). Having had a keen curiosity of the world around me, this led to a deep appreciation of music, art and the natural sciences. The last of which eventually spurred me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. Physics presents an opportunity for us to resolve some of the greatest mysteries of our universe, and takes us down the infinite rabbit hole to understanding our reality. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). 
 
 
 # PHYSICS RESEARCH
@@ -21,7 +21,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 # ACADEMIC NOTES
 
-Throughout my arduous academic escapades, I have managed to transcribe notes from several of these classes to LaTex. Below is an assortment of the few I have managed. 
+Throughout my arduous academic escapades, I have managed to transcribe notes from several of these classes to *LaTeX*. Below is an assortment of the few I have managed to consolidate. Stay-tuned, more to come!
 
 ## Notes from CU Boulder
 
@@ -45,4 +45,4 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 # OTHER PROJECTS 
 
 * [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
-* ["**The Quantum World**" Workshop (2019)](./TQW.md)
+* [R. R. W. Wang, "**The Quantum World**" Workshop, IAP (2019)](./TQW.md)
