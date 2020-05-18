@@ -10,11 +10,8 @@ a vision system consisting of digital and depth cameras, and an AI program that 
 
 <img align="left" src="team_photo.jpg">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-The team consisted of 6 members: [Charles Wong](https://sg.linkedin.com/in/charles-wzx), 
-[Aravind Kandiah](https://www.linkedin.com/in/sk-ara), 
-[Keshigeyan Chandrasegaran](https://sg.linkedin.com/in/keshigeyan-chandrasegaran), 
-[Judith Lim](https://www.linkedin.com/in/judith-lim), [Canneth Ho](https://sg.linkedin.com/in/canneth-ho-1bb754160)
-and myself. 
+The team consisted of 6 members (from left to right): [Keshigeyan Chandrasegaran](https://sg.linkedin.com/in/keshigeyan-chandrasegaran) , 
+[Judith Lim](https://www.linkedin.com/in/judith-lim) , [Aravind Kandiah](https://www.linkedin.com/in/sk-ara) , myself, [Charles Wong](https://sg.linkedin.com/in/charles-wzx) and [Canneth Ho](https://sg.linkedin.com/in/canneth-ho-1bb754160). 
 
 
 (https://www.bifrost.ai/)
