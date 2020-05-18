@@ -47,4 +47,4 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 # OTHER PROJECTS 
 
 * [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
-* [R. R. W. Wang, "**The Quantum World**" Workshop, IAP (2019)](./TQW.md)
+* [R. R. W. Wang, "**The Quantum World**" Workshop, IAP (2019)](./TQW/TQW.md)
