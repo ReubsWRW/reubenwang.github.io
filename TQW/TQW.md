@@ -9,7 +9,7 @@
 
 ## The Handbook
 
-[The Quantum World.pdf](./The%20Quantum%20World%20(IAP%202019).pdf)
+* [The Quantum World.pdf](./The%20Quantum%20World%20(IAP%202019).pdf)
 
 **Preface from the handbook**:
 *This handbook is designed as a brief but mathematically rigorous introduction to quantum science and technology for the tech enthusiast. The materials covered in this handbook are intended to be taught/learned over the course of 2 to 4 weeks with no prior knowledge of quantum physics required. In order to appeal to both scientists and engineers, there will be several topics covered with applications as quantum technologies in sufficient but not comprehensive depth so as to gain literacy of the subject matter. Specifically, we will be exploring a simplified model of radioactive decay in ionization smoke detectors and the model of quantum computation. As a means for appealing to a diverse audience and trying to incorporate the best of both worlds, I have divided the handbook into 2 parent parts. These are namely “understanding the substrate” and “applied abstractions”. This partitioning is to differentiate between content that focuses on quantum theory topics pertaining to describing physical systems vs material that cares only about abstracted utilizable properties (analogous to the distinction between electrical engineering and computer science).*
