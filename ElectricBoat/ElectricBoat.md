@@ -4,7 +4,7 @@ In the summer of 2016, a team of fellow engineers and I worked on building a man
 
 <img align="left" src="Final%20drive%20train.PNG" width="600">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(3D model of the final drivetrain design. Made with *SolidWorks*.)  
+(3D model of the final drivetrain design. Made with *SolidWorks* .)  
 
 ## The Electric Boat
 
