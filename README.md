@@ -28,6 +28,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 * [**AI Pick-and-Place Robotic System**, (2019)](./RoboticPicking/RoboticPicking.md)
 * ["**The Quantum World**" Workshop, IAP (2019)](./TQW/TQW.md)
 * [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
+* [**Electric Powered Boat** summer project (2016)](./ElectricBoat/ElectricBoat.md)
 
 # Contact
 
