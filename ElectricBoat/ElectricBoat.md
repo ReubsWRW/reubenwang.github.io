@@ -1,14 +1,14 @@
 # Electric Powered Boat Project
 
-In the summer of 2016, a team of fellow engineers and I worked on building a manned, electric powered boat. The boat was designed, fabricated and driven by our team, under the super vision of staff members working at the [MIT-IDC](https://innovation.mit.edu/resource/international-design-center/). In designing the boat, we utilized software such as [SolidWorks](https://www.solidworks.com/) and [Rhinoceros](https://www.rhino3d.com/) as 3D modelling tools, which we could then use as engineering references for fabrication. I was tasked with building the mechanical drivetrain, which along with the streamline design of the boat, propelled us to number 1 in a little race amongst other boat builders. 
+In the summer of 2016, a team of fellow engineers and I worked on building a manned, electric powered boat. The boat was designed, fabricated and driven by our team, under the super vision of staff members working at the [MIT-IDC](https://innovation.mit.edu/resource/international-design-center/). In designing the boat, we utilized software such as [*SolidWorks*](https://www.solidworks.com/) and [*Rhinoceros*](https://www.rhino3d.com/) as 3D modelling tools, which we could then use as engineering references for fabrication. I was tasked with building the mechanical drivetrain, which along with the streamline design of the boat, propelled us to number 1 in a little race amongst other boat builders. 
 
 <img align="left" src="Final%20drive%20train.PNG" width="600">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(3D model of the final drivetrain design.)  
+(3D model of the final drivetrain design. Made with *SolidWorks*.)  
 
 ## The Electric Boat
 
-The design and build processes were tiring but extremely enjoyable, lasting a duration of approximately 8 weeks. However, we finally succeeded in finishing its construction, where it very smoothly rode the gentle waves of the Charles river in Cambridge, Massachusetts.
+The design and build processes were tiring but extremely enjoyable, lasting a duration of approximately 8 weeks. We eventually succeeded in finishing its construction, where it smoothly rode the gentle waves of the Charles river in Cambridge, Massachusetts.
 
 <img align="left" src="me_in_boat.jpg"> 
 (Photo of me in the electric boat on the Charles river. Photo by Chan Wei Ren.)
