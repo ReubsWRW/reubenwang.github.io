@@ -15,8 +15,7 @@ The design and build processes were tiring but extremely enjoyable, lasting a du
 
 ## Team Cougar
 
-The team, which dawned the
-name "Cougar", consisted of 6 individuals (in photo below), all of whom were rising sophomores at the time. 
+The team, which dawned the name "*Cougar*", consisted of 6 individuals (in photo below), all of whom were rising sophomores at the time. 
 
 <img align="left" src="team_Cougar_photo.jpg"> 
 (Photo of team Cougar. Photo by Chan Wei Ren.)
