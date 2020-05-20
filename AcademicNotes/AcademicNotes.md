@@ -1,5 +1,4 @@
 [Back to home](https://reubenwangrongwen.github.io/)
-<br/>
 
 # ACADEMIC NOTES
 
