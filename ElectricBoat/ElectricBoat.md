@@ -1,3 +1,5 @@
+[Back to home](https://reubenwangrongwen.github.io/)
+
 # Electric Powered Boat Project
 
 In the summer of 2016, a team of fellow engineers and I worked on building a manned, electric powered boat. The boat was designed, fabricated and driven by our team, under the super vision of staff members working at the [MIT-IDC](https://innovation.mit.edu/resource/international-design-center/). In designing the boat, we utilized software such as [*SolidWorks*](https://www.solidworks.com/) and [*Rhinoceros*](https://www.rhino3d.com/) as 3D modelling tools, which we could then use as engineering references for fabrication. I was tasked with building the mechanical drivetrain, which along with the streamline design of the boat, sturdy steering mechanism and robust electronics, propelled us to number 1 in a little race amongst other boat builders. 
