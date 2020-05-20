@@ -8,7 +8,7 @@ A big part leading to the success of this project was ensuring that every piece 
 
 ### Final Drivetrain Design (CAD)
 
-The image below shows the final CAD model of the drivetrain mechanism, designed in SolidWorks. 
+The image below shows the final CAD model of the drivetrain mechanism, designed in SolidWorks. My summer baby.
 
 <img align="left" src="Final%20drive%20train.PNG" width="600">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
