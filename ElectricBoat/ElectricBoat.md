@@ -28,11 +28,14 @@ I must say that the final build of the boat did not turn out too far off from ou
 
 <img align="left" src="CougarX.JPG"> 
 (Photo of the electric boat by the Charles river. Photo by Chan Wei Ren.)
+<br/>
 
 The design and build processes were tiring but nonetheless enjoyable, lasting a duration of approximately 8 weeks. We eventually succeeded in finishing its construction, where it smoothly rode the gentle waves of the Charles river in Cambridge, Massachusetts (GIF of Cougar member Shalv taking the boat for a ride below).
 
 <img align="left" src="Shalv_in_boat.gif"> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 (Video taken by Casey.)
+<br/>
 
 Of course, I myself could not resist taking the boat we worked so hard on for a spin in the Charles (image below).
 
