@@ -1,3 +1,5 @@
+[Back to home](./master/README.md)
+
 # The Quantum World
 
 *The Quantum World* was a workshop I devised and held, that taught introductory concepts on quantum mechanics and quantum computation in the spring of 2019. The workshop was targeted at engineering students at SUTD with no prior knowledge of quantum theory and was designed to be brief but rigorous. It spanned a total of 4, 2 hour long sessions, for which not all the intended material was covered. This webpage is a catalog of the notes (a short handbook) and slides I made and used to conduct the workshop. 
@@ -47,4 +49,6 @@ Here are some photos taken while the workshop was being conducted.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
 (photo credits: Aravind SK)
+<br/><br/>
 
+[Back to home](./master/README.md)
