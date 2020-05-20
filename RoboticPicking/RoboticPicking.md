@@ -1,3 +1,5 @@
+[Back to home](https://reubenwangrongwen.github.io/)
+
 # Autonomous Pick-and-Place Robot
 
 Over the course of about 9 months, a team of friends and I embarked on building an AI-robotic system that could perform general 
