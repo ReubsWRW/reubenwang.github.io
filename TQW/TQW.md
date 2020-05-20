@@ -1,4 +1,4 @@
-[Back to home](./master/README.md)
+[Back to home](https://reubenwangrongwen.github.io/)
 
 # The Quantum World
 
@@ -51,4 +51,4 @@ Here are some photos taken while the workshop was being conducted.
 (photo credits: Aravind SK)
 <br/><br/>
 
-[Back to home](./master/README.md)
+[Back to home](https://reubenwangrongwen.github.io/)
