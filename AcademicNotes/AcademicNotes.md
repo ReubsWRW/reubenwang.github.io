@@ -1,3 +1,6 @@
+[Back to home](https://reubenwangrongwen.github.io/)
+<br/>
+
 # ACADEMIC NOTES
 
 Throughout my arduous academic escapades, I have managed to transcribe notes from several of these classes to *LaTeX*. Below is an assortment of the few I have managed to consolidate. Stay-tuned, more to come!
@@ -19,3 +22,6 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 * [30.104 Dynamics (Dario Poletti)](./SUTD/30.104%20Dynamics%20(SUTD).pdf)
 * [01.112 Machine Learning (Lu Wei)](./SUTD/01.112%20Machine%20Learning%20(SUTD).pdf)
 * [30.114 Advanced Feedback and Control (Foong Shao Hui)](./SUTD/30.114%20Advanced%20Feedback%20and%20Control%20(SUTD).pdf)
+
+<br/>
+[Back to home](https://reubenwangrongwen.github.io/)
