@@ -22,5 +22,3 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 * [01.112 Machine Learning (Lu Wei)](./SUTD/01.112%20Machine%20Learning%20(SUTD).pdf)
 * [30.114 Advanced Feedback and Control (Foong Shao Hui)](./SUTD/30.114%20Advanced%20Feedback%20and%20Control%20(SUTD).pdf)
 
-<br/>
-[Back to home](https://reubenwangrongwen.github.io/)
