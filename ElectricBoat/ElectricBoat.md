@@ -16,7 +16,7 @@ The image below shows the final CAD model of the drivetrain mechanism, designed 
 
 ### Final Boat Design (CAD)
 
-The image below shows the final CAD model of our electric boat rendered in SolidWorks. The design of the boat was inspired by the *X-wing fighter* from *Star Wars*, which landed our boat the name *CougarX*. 
+The image below shows the final CAD model of our electric boat rendered in SolidWorks. The boat design was inspired by the *X-wing fighter* from *Star Wars*, which landed it the name *CougarX*. 
 
 <img align="left" src="CougarX_CAD.JPG" width="600">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
