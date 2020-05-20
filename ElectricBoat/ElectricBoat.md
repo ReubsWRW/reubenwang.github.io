@@ -24,7 +24,7 @@ The image below shows the final CAD model of our electric boat rendered in Solid
 
 ## The Electric Boat
 
-I must say that the final build of the boat did not turn out too far off from our final CAD model (imega below).
+I must say that the final build of the boat did not turn out too far off from our final CAD model (image below).
 
 <img align="left" src="CougarX.JPG"> 
 (Photo of the electric boat by the Charles river. Photo by Chan Wei Ren.)
