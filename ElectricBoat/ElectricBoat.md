@@ -12,15 +12,15 @@ The image below shows the final CAD model of the drivetrain mechanism, designed 
 
 <img align="left" src="Final%20drive%20train.PNG" width="600">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(My 3D model of the final drivetrain design. Made with SolidWorks.)  
+(3D model of my final drivetrain design. Made with SolidWorks.)  
 
 ### Final Boat Design (CAD)
 
 The image below shows the final CAD model of our electric boat rendered in SolidWorks. 
 
 <img align="left" src="CougarX_CAD.JPG" width="600">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(My 3D model of the final boat design. Made with SolidWorks.)  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+(3D model of the final boat design. Made with SolidWorks.)  
 
 ## The Electric Boat
 
@@ -33,7 +33,7 @@ I must say that the final build of the boat did not turn out too far off from ou
 The design and build processes were tiring but nonetheless enjoyable, lasting a duration of approximately 8 weeks. We eventually succeeded in finishing its construction, where it smoothly rode the gentle waves of the Charles river in Cambridge, Massachusetts (GIF of Cougar member Shalv taking the boat for a ride below).
 
 <img align="left" src="Shalv_in_boat.gif"> 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 (Video taken by Casey.)
 <br/>
 
