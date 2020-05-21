@@ -8,6 +8,8 @@ pick-and-place tasks. The final system was the integration of a 6-axis robotic a
 * identify and categorize objects when placed on a pre-defined palette;
 * ascertain the optimal picking confguration and trajectory to move the object into a pre-defined bin.
 
+All the code I developed was done with [*Python*](https://www.python.org/).
+
 
 ## Demo: Robot in Action
 
