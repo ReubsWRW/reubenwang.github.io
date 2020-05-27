@@ -7,7 +7,7 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 <br/>
 <img align="left" src="Images/casual_portrait.jpg" width="200"> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-(photo of me, circa 2019)
+(photo of me, circa 2019. Photo credits: Cabrini Tan, Lee Shu Qing)
 <br/>
 
 I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). Having had a keen curiosity of the world around me led to a deep appreciation of music, art and the natural sciences. The last of which eventually spurred me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. Physics presents an opportunity for us to resolve some of the greatest mysteries of our universe, and takes us down the infinite rabbit hole to understanding our reality. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). For a more detailed breakdown of why a PhD, [here's](./whyPhD.md) a little write up for those interested.
@@ -22,7 +22,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 
 * [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period Doubling in Period-One Steady States"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202)
 
-# Other Projects
+# Projects
 
 * [A collection of my **academic notes** taken in *LaTeX* (ongoing).](./AcademicNotes/AcademicNotes.md)
 * [**AI Pick-and-Place Robotic System**, (2019)](./RoboticPicking/RoboticPicking.md)
