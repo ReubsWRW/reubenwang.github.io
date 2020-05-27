@@ -6,7 +6,7 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 <br/>
 <img align="left" src="Images/casual_portrait.jpg" width="200"> 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 (photo of me, circa 2019. Photo credits: [Cabrini Tan](https://www.linkedin.com/in/cabrinitan/), [Lee Shu Qing](https://www.linkedin.com/in/lee-shu-qing-198828142/))
 
