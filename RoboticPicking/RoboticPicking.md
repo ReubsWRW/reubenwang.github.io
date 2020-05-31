@@ -29,6 +29,7 @@ Our team consisted of a mix of engineering and computer science majors (team pic
 
 <img align="left" src="team_photo.jpg">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 (From left to right: [Keshigeyan Chandrasegaran](https://www.linkedin.com/in/keshigeyan-chandrasegaran/), [Judith Lim](https://www.linkedin.com/in/judith-lim/), [Aravind Kandiah](https://www.linkedin.com/in/sk-ara/), myself, [Charles Wong](https://www.linkedin.com/in/charles-wzx/) and [Canneth Ho](https://www.linkedin.com/in/canneth-ho-1bb754160/).) 
 
 With the synethetic data technology developed, team members Charles and Aravind have founded the start-up [Bifrost](https://www.bifrost.ai/), that offers AI companies a synthetic data platform to generate their desired data sets. 
