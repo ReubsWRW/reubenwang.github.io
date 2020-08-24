@@ -6,7 +6,7 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 <br/>
 <img align="left" src="Images/portrait_casual.JPG" width="300"> 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 (photo of me, circa 2020. Photo credits: Aditya Manikashetti.)
 
