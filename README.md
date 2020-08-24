@@ -18,7 +18,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 ## Publications
 
-My *Google scholar* can be found [here](https://scholar.google.com/citations?user=wX9sdjwAAAAJ&hl=en)!
+My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
 * [R. R. W. Wang, A. G. Sykes, and J. L. Bohn, **"Linear Response of a Periodically Driven Thermal Dipolar Gas"**, Physical Review A (submitted, 2020).](https://arxiv.org/abs/2006.13974)
 * [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period Doubling in Period-One Steady States"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202)
