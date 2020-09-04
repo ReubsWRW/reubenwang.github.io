@@ -35,4 +35,4 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 # Contact
 
 * Email: <reuben.wang@colorado.edu>
-* Office: JILA X390
+* Office: JILA X390 (currently away due to COVID-19)
