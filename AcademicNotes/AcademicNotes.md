@@ -11,6 +11,7 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 * [5250 Graduate Quantum Mechanics II (Ana Maria Rey)](./CU%20Boulder/5260%20Graduate%20Quantum%20%20Mechanics%20II.pdf)
 * [7320 Graduate Electromagnetic Theory (Thomas DeGrand)](./CU%20Boulder/7320%20Graduate%20Electromagnetic%20Theory%20II.pdf)
 * [7810 Scattering in Quantum Gases (Jose D'Incao)](./CU%20Boulder/7810%20Scattering%20in%20Quantum%20Gases.pdf)
+* [7270 Quantum Field Theory I (Paul Romatschke)](./CU%20Boulder/7270%20Quantum%20Field%20Theory%20I.pdf)
 
 ## Notes from MIT
 
