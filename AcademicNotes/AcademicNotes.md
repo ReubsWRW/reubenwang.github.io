@@ -9,7 +9,7 @@ Throughout my arduous academic escapades, I have managed to transcribe notes fro
 * [5210 Graduate Theoretical Mechanics (Victor Gurarie)](./CU%20Boulder/5210%20Theoretical%20Mechanics.pdf)
 * [5250 Graduate Quantum Mechanics I (Ethan Neil)](./CU%20Boulder/5250%20Graduate%20Quantum%20%20Mechanics%20I.pdf)
 * [5250 Graduate Quantum Mechanics II (Ana Maria Rey)](./CU%20Boulder/5260%20Graduate%20Quantum%20%20Mechanics%20II.pdf)
-* [7320 Graduate Electromagnetic Theory (Thomas DeGrand)](./AcademicNotes/CU%20Boulder/7320%20Graduate%20Electromagnetic%20Theory%20II.pdf)
+* [7320 Graduate Electromagnetic Theory (Thomas DeGrand)](./CU%20Boulder/7320%20Graduate%20Electromagnetic%20Theory%20II.pdf)
 * [7810 Scattering in Quantum Gases (Jose D'Incao)](./CU%20Boulder/7810%20Scattering%20in%20Quantum%20Gases.pdf)
 
 ## Notes from MIT
