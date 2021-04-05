@@ -20,6 +20,8 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
+* [R. R. W. Wang and J. L. Bohn, **"Anisotropic Thermalization of Dilute Dipolar Gases"**, ArXiv (2021).](https://arxiv.org/abs/2104.00724)
+* [J. Li, W. G. Tobias, K. Matsuda, C. Miller, G. Valtolina, L. De Marco, R. R. W. Wang, L. Lassablière, G. Quéméner, J. L. Bohn and J. Ye, **"Controlling Anisotropic Dipolar Interaction with Shielding Resonance in a Three-Dimensional Molecular Quantum Gas"**, ArXiv (2021).](https://arxiv.org/abs/2103.06246)
 * [R. R. W. Wang, A. G. Sykes, and J. L. Bohn, **"Linear Response of a Periodically Driven Thermal Dipolar Gas"**, Physical Review A (2020).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033336)
 * [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period Doubling in Period-One Steady States"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202)
 
