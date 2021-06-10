@@ -10,7 +10,7 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 (photo of me, circa 2020. Photo credits: [Aditya Manikashetti](https://www.splitsecond.sg/).)
 
-I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). Having had a keen curiosity of the world around me led to a deep appreciation of music, art and the natural sciences. The last of which eventually spurred me to pursue a formal education in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. Over the course of my educational life, physics has grown to be a true passion of mine. Physics presents an opportunity for us to resolve some of the greatest mysteries of our universe, and takes us down the infinite rabbit hole to understanding our reality. This brings me to where I am now, pursing a PhD in theoretical physics at [CU, Boulder](https://www.colorado.edu/). For a more detailed breakdown of why a PhD, [here's](./whyPhD.md) a little write up for those interested.
+I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). My formal academic pursuits have been in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. I am now doing my doctorate in theoretical physics at [CU, Boulder](https://www.colorado.edu/). [Here's](./whyPhD.md) a little write up of why a PhD for those interested. 
 
 # Physics Research
 
