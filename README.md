@@ -28,6 +28,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 
 # Projects
 
+* [**Music single**, Love (feat. Tim G & Alexis Lee)](https://distrokid.com/hyperfollow/reubenw/love-feat-tim-g--alexis-lee)
 * [A collection of my **academic notes** taken in *LaTeX* (ongoing).](./AcademicNotes/AcademicNotes.md)
 * [**AI Pick-and-Place Robotic System**, (2019)](./RoboticPicking/RoboticPicking.md)
 * ["**The Quantum World**" Workshop, IAP (2019)](./TQW/TQW.md)
