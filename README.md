@@ -34,7 +34,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 * [A collection of my **academic notes** taken in *LaTeX* (ongoing).](./AcademicNotes/AcademicNotes.md)
 * [**AI Pick-and-Place Robotic System**, (2019)](./RoboticPicking/RoboticPicking.md)
 * ["**The Quantum World**" Workshop, IAP (2019)](./TQW/TQW.md)
-* [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.youth.sg/Users/P/R/PraxisPlus/2017/8/The-story-behind-Phosphene)
+* [Praxis+, "**Phosphene**", Singapore Night Festival (2017)](https://www.facebook.com/sutdsingapore/posts/phosphene-by-praxis-get-ready-to-be-mesmerised-by-the-glitters-and-sparkles-in-t/10155450328715977/)
 * [**Electric Powered Boat**, summer project (2016)](./ElectricBoat/ElectricBoat.md)
 
 # Contact
