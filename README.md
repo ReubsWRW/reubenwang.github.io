@@ -25,7 +25,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
-* [A. Patscheider, L. Chomaz, G. Natale, D. Petter, M. J. Mark, S. Baier, B. Yang, R. R. W. Wang, J. L. Bohn, F. Ferlaino, **"Accurate determination of the scattering length of erbium atoms"**, arxiv (2021)](https://arxiv.org/abs/2112.11883) <br />
+* [A. Patscheider, L. Chomaz, G. Natale, D. Petter, M. J. Mark, S. Baier, B. Yang, R. R. W. Wang, J. L. Bohn, F. Ferlaino, **"Accurate determination of the scattering length of erbium atoms"**, submitted to Physical Review A (2021)](https://arxiv.org/abs/2112.11883) <br />
 **DIGEST:**
 *At extremely cold temperatures, atoms interact with each other quantum mechanically, quantified by a property known as the scattering length (analogous to the diameter of colliding billiard balls). Magnetic fields can be applied to change the scattering length, permitting a tuning knob for varying atomic interactions. This work presents precise experimental measurements of the scattering length for Erbium atoms, over a broad range of magnetic fields. These were extracted by careful comparisons of experimental data to our theoretical model.*
 
