@@ -23,7 +23,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
 * [R. R. W. Wang and J. L. Bohn, **"Anisotropic Thermalization of Dilute Dipolar Gases"**, Physical Review A (2021).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063320)
-  
+**DIGEST:**
 *Just as the temperature of a room eventually evenly raises with the sudden introduction of heat, so too is the same for an isolated gas of atoms. The route to this new equilibrium temperature, is however highly dependent on the properties of the gas’ constituent atoms. In this work, we derive tractable formulas for how the magnetism of atoms in a gas can affect its route to temperature equilibrium. These formulas will thus allow experimentalist to determine magnetic properties in atoms, simply by temperature measurements alone.*
 
 * [J. Li, W. G. Tobias, K. Matsuda, C. Miller, G. Valtolina, L. De Marco, R. R. W. Wang, L. Lassablière, G. Quéméner, J. L. Bohn and J. Ye, **"Tuning of dipolar interactions and evaporative cooling in a three-dimensional molecular quantum gas"**, Nature Physics (2021).](https://www.nature.com/articles/s41567-021-01329-6)
