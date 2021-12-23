@@ -26,7 +26,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 **DIGEST:**
 *At extremely cold temperatures, atoms interact with each other quantum mechanically, quantified by a property known as the scattering length (analogous to the diameter of colliding billiard balls). Magnetic fields can be applied to change the scattering length, permitting a tuning knob for varying atomic interactions. This work presents precise experimental measurements of the scattering length for Erbium atoms, over a broad range of magnetic fields. These were extracted by careful comparisons of experimental data to our theoretical model.*
 
-* [R. R. W. Wang and J. L. Bohn, **"Anisotropic Thermalization of Dilute Dipolar Gases"**, Physical Review A (2021).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063320) <br />
+* [R. R. W. Wang and J. L. Bohn, **"Anisotropic thermalization of dilute dipolar gases"**, Physical Review A (2021).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063320) <br />
 **DIGEST:**
 *Just as the temperature of a room eventually evenly raises with the sudden introduction of heat, so too is the same for an isolated gas of atoms. The route to this new equilibrium temperature, is however highly dependent on the properties of the gas’ constituent atoms. In this work, we derive tractable formulas for how the magnetism of atoms in a gas can affect its route to temperature equilibrium. These formulas will thus allow experimentalist to determine magnetic properties in atoms, simply by temperature measurements alone.*
 
@@ -34,11 +34,11 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 **DIGEST:**
 *Molecules have highly complex internal structures, making them extremely hard to control. In particular, gaseous molecules tend to chemically react as they bump against each other, disallowing the gas from cooling down through evaporation (like how a cup of coffee cools with its lid off).  This work demonstrates the experimental ability to shield Potassium-Rubidium (KRb) molecules from chemically reacting, using an incredibly precise and strong electric field. We resultantly measure the characteristic heat redistribution signature of such non-chemically reactive gases, and it’s promising capacity to evaporatively cool to ultralow temperatures.*
 
-* [R. R. W. Wang, A. G. Sykes, and J. L. Bohn, **"Linear Response of a Periodically Driven Thermal Dipolar Gas"**, Physical Review A (2020).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033336) <br />
+* [R. R. W. Wang, A. G. Sykes, and J. L. Bohn, **"Linear response of a periodically driven thermal dipolar gas"**, Physical Review A (2020).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033336) <br />
 **DIGEST:**
 *Cooling gases to ultra low temperatures allows in inter-atom collisions that leave the internal state of atoms unchanged. In this work, we study such a gas where the atoms are additionally highly magnetic. When periodically pumped, the gas heats up but at different rates in different directions, depending on the enforced orientation of the magnets. This work studies and characterizes the directionality of heat propagation through such magnetic atomic gases.*
 
-* [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period Doubling in Period-One Steady States"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202) <br />
+* [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period doubling in period-one steady states"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202) <br />
 **DIGEST:**
 *Much like ordinary crystals that have an orderly structure in space, time crystals are unique phases where matter develops order also in time. In this work, we show the emergence of time crystal signatures known as period doubling, with a quantum system of many particles known as Bosons. These Bosons are pumped with energy in cycles, while also dissipating energy to their environment so that the result is a long-lived, robust state of time crystalline order.*
 
