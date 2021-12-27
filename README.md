@@ -31,7 +31,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 
 * [R. R. W. Wang and J. L. Bohn, **"Anisotropic thermalization of dilute dipolar gases"**, Physical Review A (2021).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.063320) <br />
 **DIGEST:**
-*Just as the temperature of a room eventually evenly raises with the sudden introduction of heat, so too is the same for an isolated gas of atoms. The route to this new equilibrium temperature, is however highly dependent on the properties of the individual atoms. In this work, we derive concise formulas for how strong magnetism in atoms can affect route to which gases reach their equilibrium temperature. These formulas will thus allow experimentalist to determine magnetic properties in atoms, simply by temperature measurements alone.*
+*Just as the temperature of a room eventually evenly rises with the sudden introduction of heat, so too is the same for an isolated gas of ultracold atoms. The route to this new equilibrium temperature, is however highly dependent on the properties of the individual atoms. In this work, we derive concise formulas for how strong magnetism in atoms can affect the route to which gases reach their equilibrium temperature. These formulas will thus allow experimentalist to determine magnetic properties in atoms, simply by temperature measurements alone.*
 
 * [J. Li, W. G. Tobias, K. Matsuda, C. Miller, G. Valtolina, L. De Marco, R. R. W. Wang, L. Lassablière, G. Quéméner, J. L. Bohn and J. Ye, **"Tuning of dipolar interactions and evaporative cooling in a three-dimensional molecular quantum gas"**, Nature Physics (2021).](https://www.nature.com/articles/s41567-021-01329-6) <br />
 **DIGEST:**
