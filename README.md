@@ -12,14 +12,14 @@ You have found yourself in the personal website of Reuben Wang. Nice to meet you
 
 (photo of me, circa 2020. Photo credits: [Aditya Manikashetti](https://www.splitsecond.sg/).)
 
-I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). My formal academic pursuits have been in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. I am now doing my doctorate in theoretical physics at [JILA](https://jila.colorado.edu/), a joint institute between [CU, Boulder](https://www.colorado.edu/) and [NIST](https://www.nist.gov/). 
+I was born and raised in the tropical island of [Singapore](https://www.visitsingapore.com/en/). My formal academic pursuits have been in STEM, where I studied engineering (at [SUTD](https://www.sutd.edu.sg/)) and physics (at [MIT](http://www.mit.edu/)) as an undergraduate. I am now doing my doctorate in theoretical physics at [JILA](https://jila.colorado.edu/), a joint institute between [CU, Boulder](https://www.colorado.edu/) and [NIST](https://www.nist.gov/) ([Curriculum Vitae](./CV2021.pdf)). 
 <!---
 [Here's](./whyPhD.md) a little write up of why a PhD for those interested.
 --> 
 
 # Physics Research
 
-I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/) ([Curriculum Vitae](./CV2021.pdf)). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying *many-body physics* and the *thermodynamics of ultracold gases* (i.e. I like to study the behavior of systems with many things when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy! 
+I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying *many-body physics* and the *thermodynamics of ultracold gases* (i.e. I like to study the behavior of systems with many things when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy! 
 
 ## Publications
 
