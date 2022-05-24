@@ -23,6 +23,10 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
+* [R. R. W. Wang and J. L. Bohn, **"Thermal Conductivity of an Ultracold Paramagnetic Bose Gas"**, submitted to Physical Review A (2022)](https://arxiv.org/abs/2205.10465) <br />
+**DIGEST:**
+*Fluid mechanics studies macroscopic phenomena by means of coarse graining over all the microscopic particles which actually make up the fluid. However, certain properties of the fluid do require a deep understanding of the microscopic underpinnings from which they arise. One such property is the thermal conductivity, which measures the rate at which heat spreads throughout the fluid. In this work, we study a fluid made up of highly magnetic atoms that results in thermal conduction that varies with the direction relative to the atomic-magnetic orientation. This opens up opportunities to steer the flow of heat through these fluids, by changing the atomic-magnetic orientations with applied magnetic fields. *
+
 * [A. Patscheider, L. Chomaz, G. Natale, D. Petter, M. J. Mark, S. Baier, B. Yang, R. R. W. Wang, J. L. Bohn, F. Ferlaino, **"Accurate determination of the scattering length of erbium atoms"**, submitted to Physical Review A (2021)](https://arxiv.org/abs/2112.11883) <br />
 **DIGEST:**
 *At extremely cold temperatures, atoms interact with each other quantum mechanically, quantified by a property known as the scattering length (analogous to the diameter of colliding billiard balls). Magnetic fields can be applied to change the scattering length, permitting a tuning knob for varying atomic interactions. This work presents precise experimental measurements of the scattering length for Erbium atoms, over a broad range of magnetic fields. These were extracted by careful comparisons of experimental data to our theoretical model.*
