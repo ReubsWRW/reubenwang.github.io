@@ -23,7 +23,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
-* [R. R. W. Wang and J. L. Bohn, **"Thermal Conductivity of an Ultracold Paramagnetic Bose Gas"**, submitted to Physical Review A (2022)](https://arxiv.org/abs/2205.10465) <br />
+* [R. R. W. Wang and J. L. Bohn, **"Thermal Conductivity of an Ultracold Paramagnetic Bose Gas"**, accepted by Physical Review A (2022)](https://journals.aps.org/pra/accepted/61075N97Fd91f12e82cd79537e8265b617a4488d2) <br />
 **DIGEST:**
 *Fluid mechanics studies macroscopic phenomena by means of coarse graining over all the microscopic particles which actually make up the fluid. However, certain properties of the fluid do require a deep understanding of the microscopic underpinnings from which they arise. One such property is the thermal conductivity, which measures the rate at which heat spreads throughout the fluid. In this work, we study a fluid made up of highly magnetic atoms that results in thermal conduction that varies with the direction relative to the atomic-magnetic orientation. This opens up opportunities to steer the flow of heat through these fluids, by changing the atomic-magnetic orientations with applied magnetic fields.*
 
