@@ -23,11 +23,15 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
-* [R. R. W. Wang and J. L. Bohn, **"Thermoviscous Hydrodynamics in Non-Degenerate Dipolar Bose Gases"**, submitted to Physical Review A (2022)](https://arxiv.org/abs/2208.08353) <br />
+* [R. R. W. Wang and J. L. Bohn, **"Anisotropic acoustics in dipolar Fermi gases"**, submitted to Physical Review A (2022)](https://arxiv.org/abs/2212.12659) <br />
+**DIGEST:**
+*Sound travels through a gas by successive compressions and rarefactions along its direction of propagation. In ultracold gases of polar molecules (i.e. molecules that have effective oppositely charged poles separated by a distance), the intermolecular interactions can result in a distortion of sound waves, dependent on the direction in which a listener hears it. This directional dependence also persists in the way sound damps out in such gases, primarily due to the effects of viscosity--a form of friction in the gas. Because our theory encapsulates all of these effects, we have proposed a means for experimentalists to measure the viscosity in these polar molecular gases via a particular type of flow motion, known as shear waves. *
+
+* [R. R. W. Wang and J. L. Bohn, **"Thermoviscous Hydrodynamics in Non-Degenerate Dipolar Bose Gases"**, Physical Review A (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.053307) <br />
 **DIGEST:**
 *Molecules comprised of different constituent atoms (e.g. OH instead of O2) can have a highly non-uniform charge distributions. That is to say, one end of the molecule could have a much greater charge than the other, a characteristic referred to as being polar. When 2 polar molecules collide, their resultant trajectories are now highly dependent on the relative orientation of approach, unlike the case of 2 perfectly spherical objects. On a larger scale, these peculiar collisional interactions can result in entire gases of polar molecules exhibiting novel behaviours, motivating its study. To do so, we formulate a theory of polar molecular gases that describes them as a viscous fluid, where viscosity arises directly from these polar collisions.*
 
-* [R. R. W. Wang and J. L. Bohn, **"Thermal Conductivity of an Ultracold Paramagnetic Bose Gas"**, accepted by Physical Review A (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.023319) <br />
+* [R. R. W. Wang and J. L. Bohn, **"Thermal Conductivity of an Ultracold Paramagnetic Bose Gas"**, Physical Review A (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.023319) <br />
 **DIGEST:**
 *Fluid mechanics studies macroscopic phenomena by means of coarse graining over all the microscopic particles which actually make up the fluid. However, certain properties of the fluid do require a deep understanding of the microscopic underpinnings from which they arise. One such property is the thermal conductivity, which measures the rate at which heat spreads throughout the fluid. In this work, we study a fluid made up of highly magnetic atoms that results in thermal conduction that varies with the direction relative to the atomic-magnetic orientation. This opens up opportunities to steer the flow of heat through these fluids, by changing the atomic-magnetic orientations with applied magnetic fields.*
 
