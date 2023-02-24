@@ -23,6 +23,10 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
+* [H. Li, E. Halperin, R. R. W. Wang, J. L. Bohn, **"Out-of-Time-Order-Correlator for van der Waals potential"**, submitted to Physical Review A (2023)](https://arxiv.org/abs/2301.10323) <br />
+**DIGEST:**
+*The notion of chaos in physics is often characterized by largely diverging trajectories over time despite very similar starting points, the so-called "butterfly effect". These divergent paths are well quantified in classical systems, using a metric known as the "Lyapunov exponent". In quantum systems however, the definition of chaos is less clear and in fact an ongoing topic of discussion. In this work, we analyze a proposed metric for quantum chaos referred to as the "out-of-time-order-correlator" (OTOC), in the context of a simple molecular system. We show that despite our molecule of interest being definitively not chaotic, the OTOC still behaves with the quantum equivalent of a Lyapunov exponent, putting into question the capacity of OTOCs as a useful indicator of quantum chaos. *
+
 * [R. R. W. Wang and J. L. Bohn, **"Anisotropic acoustics in dipolar Fermi gases"**, submitted to Physical Review A (2022)](https://arxiv.org/abs/2212.12659) <br />
 **DIGEST:**
 *Sound travels through a gas by successive compressions and rarefactions along its direction of propagation. In ultracold gases of polar molecules (i.e. molecules that have effective oppositely charged poles separated by a distance), the intermolecular interactions can result in a distortion of sound waves, dependent on the direction in which a listener hears it. This directional dependence also persists in the way sound damps out in such gases, primarily due to the effects of viscosity--a form of friction in the gas. Because our theory encapsulates all of these effects, we have proposed a means for experimentalists to measure the viscosity in these polar molecular gases via a particular type of flow motion, known as shear waves.*
