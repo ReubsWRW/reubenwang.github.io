@@ -23,6 +23,10 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
+* [R. R. W. Wang and J. L. Bohn, **"Viscous Damping in Weltering Motion of Trapped Hydrodynamic Dipolar Fermi Gases"**, ArXiv (2023)](https://arxiv.org/abs/2306.00250) <br />
+**DIGEST:**
+*As more molecules are added to a finite volume, an initially gaseous sample can have its behavior transit to one that more closely resembles a fluid. Such a dense gas is said to be "hydrodynamic", and is best described as a continuous substance rather than roaming particulates. Our work leverages this hydrodynamic description of dense gases, providing a means describe how ultracold samples of diatomic molecules behave when perturbed out of equilibrium. Specifically, we study these ultracold fluids when they are confined in parabolic (optical) containments, and establish that equilibrium is restored as a consequence of viscosity. Viscosity results from the remnant gaseous behavior within each fluid patch, manifesting as a source of damping to collective fluid motion. By employing several approximations and numerical tools, we have developed a simplified model that well describes particular aspects of the fluid motion we term as "weltering".*
+
 * [A. M. Polloreno, R. R. W. Wang, N. A. Tezak, **"A Note on Noisy Reservoir Computation"**, ArXiv (2023)](https://arxiv.org/abs/2302.10862) <br />
 **DIGEST:**
 *Contrary to the usual notion of modern-day electronic digital computers, the term "computer" can, in general, be used as reference to any system which processes input information. One such class of these generalized computing machines is the so-called "reservoir computer", which takes a given dynamical system (the "reservoir") as it is (e.g. a bucket of water or an artificial neural network), and exploits its innate complexity to aid with computational tasks. In this note, we show that if a reservoir or its inputs were to be subject to a small degree of randomness, this noise can only serve to degrade the amount of useful information processed by it.*
