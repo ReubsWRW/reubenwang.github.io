@@ -23,7 +23,7 @@ I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JIL
 
 My *Google scholar* can be found [here](https://scholar.google.com/citations?user=Lsw_2DgAAAAJ&hl=en&authuser=1)!
 
-* [R. R. W. Wang and J. L. Bohn, **"Viscous Damping in Weltering Motion of Trapped Hydrodynamic Dipolar Fermi Gases"**, ArXiv (2023)](https://arxiv.org/abs/2306.00250) <br />
+* [R. R. W. Wang and J. L. Bohn, **"Viscous dynamics of a quenched trapped dipolar Fermi gas"**, Physical Review A (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.013322) <br />
 **DIGEST:**
 *As more molecules are added to a finite volume, an initially gaseous sample can have its behavior transit to one that more closely resembles a fluid. Such a dense gas is said to be "hydrodynamic", and is best described as a continuous substance rather than roaming particulates. Our work leverages this hydrodynamic description of dense gases, providing a means describe how ultracold samples of diatomic molecules behave when perturbed out of equilibrium. Specifically, we study these ultracold fluids when they are confined in parabolic (optical) containments, and establish that equilibrium is restored as a consequence of viscosity. Viscosity results from the remnant gaseous behavior within each fluid patch, manifesting as a source of damping to collective fluid motion. By employing several approximations and numerical tools, we have developed a simplified model that well describes particular aspects of the fluid motion we term as "weltering".*
 
