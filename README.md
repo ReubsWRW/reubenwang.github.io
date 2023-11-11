@@ -25,7 +25,7 @@ My *Google scholar* can be found [here](https://scholar.google.com/citations?use
 
 * [R. R. W. Wang and J. L. Bohn, **"Prospects for thermalization of microwave-shielded ultracold molecules"**, submitted to Physical Review Letters (2023)](https://arxiv.org/abs/2310.17812) <br />
 **DIGEST:**
-**
+*In the hopes of achieving extremely cold temperatures where quantum effects are dominant, one of the techniques utilized is referred to as evaporative cooling. This is where hotter molecules are allowed to evaporate away, leaving behind only the less energetic ones (much like how a cup of coffee cools down with its lid off). But for the overall temperature to actually decrease, the remaining molecules must come to equilibrium so that all of them know that they are collective colder. Such equilibrium is brought about by collisions that spread energy evenly throughout the gas, so it stands that collisions must be well understood to achieve the greatest reduction in temperature with the least number of molecules lost. In this work, we explore collisions between diatomic molecules in the presence of a time-varying electric field, and how such collisions affect the efficiency to which evporation cools the gas. To do so in a manner that doesn't require enormous calculations by a computer, we utilize a machine learning tool that grants us accurate results with much less effort than usually needed.*
 
 * [J. L. Bohn and R. R. W. Wang, **"Probability distributions of atomic scattering lengths"**, submitted to Canadian Journal of Physics (2023)](https://arxiv.org/abs/2309.15236) <br />
 **DIGEST:**
