@@ -53,3 +53,7 @@
 * [R. R. W. Wang, B. Xing, G. G. Carlo, and D. Poletti, **"Period doubling in period-one steady states"**, Physical Review E (2018).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020202) <br />
 **DIGEST:**
 *Much like ordinary crystals that have an orderly structure in space, time crystals are unique phases where matter develops order also in time. In this work, we show the emergence of time crystal signatures known as period doubling, with a quantum system of many particles known as Bosons. These Bosons are pumped with energy in cycles, while also dissipating energy to their environment so that the result is a long-lived, robust state of time crystalline order.*
+
+
+
+[Back to home](https://reubenwangrongwen.github.io/)
