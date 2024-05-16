@@ -17,7 +17,7 @@ I was born and raised in the tropical island of [Singapore](https://www.visitsin
 
 # Physics Research
 
-I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying *ultracold collisions* and the *collective dynamics of ultracold dipolar gases* (i.e. I like to study the behavior of systems with many things that bump into each other when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy! 
+I am currently working in the [Bohn group](http://grizzly.colorado.edu/) at [JILA](https://jila.colorado.edu/). My area of research falls under the field of *atomic, molecular and optical* (**AMO**) physics, particularly studying *ultracold collisions* and the *collective dynamics of ultracold dipolar gases* (i.e. I like to study the behavior of systems with many things that bump into each other when they are very cold). Below is a (hopefully growing) list of my publications. Enjoy!
 
 # Publications
 
